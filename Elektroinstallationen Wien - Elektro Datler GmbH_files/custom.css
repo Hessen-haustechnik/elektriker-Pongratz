@@ -1,0 +1,22 @@
+.has-sub-image #sp-header.menu-fixed,
+.has-sub-image #sp-header.menu-fixed .logo,
+.has-slideshow #sp-header.menu-fixed,
+.has-slideshow #sp-header.menu-fixed .logo,
+#sp-header.menu-fixed,
+#sp-header.menu-fixed .logo {
+  height: 90px;
+  }
+  
+.has-sub-image #sp-header.menu-fixed .sp-megamenu-parent > li, .has-slideshow #sp-header.menu-fixed .sp-megamenu-parent > li, #sp-header.menu-fixed .sp-megamenu-parent > li {
+    height: 90px;
+    line-height: 90px;
+}  
+
+.has-sub-image #sp-header.menu-fixed #offcanvas-toggler > i, .has-slideshow #sp-header.menu-fixed #offcanvas-toggler > i, #sp-header.menu-fixed #offcanvas-toggler > i {
+    line-height: 90px;
+    height: 90px;
+}
+
+.has-sub-image #sp-header.menu-fixed .macro-top-search .icon-top-wrapper, .has-slideshow #sp-header.menu-fixed .macro-top-search .icon-top-wrapper, #sp-header.menu-fixed .macro-top-search .icon-top-wrapper {
+    line-height: 90px;
+}
